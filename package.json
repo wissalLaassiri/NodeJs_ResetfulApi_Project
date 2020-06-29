@@ -1,0 +1,27 @@
+{
+  "name": "resetapiapp",
+  "version": "1.0.0",
+  "description": "A node.js RESETFUL API Tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wissalLaassiri/NodeJs_ResetfulApi_Project.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "wissal laassiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wissalLaassiri/NodeJs_ResetfulApi_Project/issues"
+  },
+  "homepage": "https://github.com/wissalLaassiri/NodeJs_ResetfulApi_Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
